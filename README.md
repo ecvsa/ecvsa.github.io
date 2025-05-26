@@ -6,10 +6,11 @@
 - <a href="cnn.com">Link 2</a>
 
 ## Team
-- <a href="cnn.com">Vision</a>
-- <a href="cnn.com">Mission</a>
-- <a href="cnn.com">Team Flywheel</a>
+- <a href="/vision">Vision</a>
+- <a href="/mission">Mission</a>
+- <a href="/principles">Leadership Principles</a>
+- <a href="/flywheel">Team Flywheel</a>
 
-## Certifications
-- <a href="cnn.com">Certifications</a>
+## Others
+- <a href="/certifications">Certifications</a>
 
