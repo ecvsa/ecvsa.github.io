@@ -3,7 +3,7 @@
 
 ## Links
 - <a href="cnn.com">SA Form</a>
-- <a href="cnn.com">Link 2</a>
+- <a href="cnn.com">SA Bot</a>
 
 ## Team
 - <a href="/vision">Vision</a>
