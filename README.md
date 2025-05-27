@@ -13,7 +13,7 @@
 ### Templates
 - <a href="cnn.com">Proposal</a>
 - <a href="cnn.com">SoW</a>
-- <a href="cnn.com">AWS Calculator</a>
+- <a href="https://calculator.aws/#/">AWS Calculator</a>
 
 ### Team
 - <a href="/2025goals">2025 Team Goals</a> 
