@@ -5,6 +5,7 @@
 - <a href="https://forms.office.com/r/vL1TTmyCmk">SA Form</a>
 - <a href="https://ecloudvalley.my.salesforce.com">SalesForce</a>
 - <a href="https://ecvcorp-my.sharepoint.com/:p:/r/personal/homer_alvero_ecloudvalley_com/_layouts/15/doc.aspx?sourcedoc=%7B5beb9a44-875c-4b07-a5a9-3b4cc829e9b6%7D&action=edit">SA Pipeline</a>
+- <a href="https://calculator.aws/#/">AWS Calculator</a>
 - <a class="ignore" href="https://airtable.com/appzdGLTX18TT9L3l/paggE9Y8qaMTvk1yJ/form">New SA Form</a>
 
 ### Sales Resources
@@ -14,7 +15,8 @@
 ### Templates
 - <a href="cnn.com">Proposal</a>
 - <a href="cnn.com">SoW</a>
-- <a href="https://calculator.aws/#/">AWS Calculator</a>
+- <a href="">AWS Calculator Template</a>
+
 
 ### Team
 - <a href="/2025goals">2025 Team Goals</a> 
