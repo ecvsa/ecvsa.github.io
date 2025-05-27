@@ -4,7 +4,7 @@
 ### Links
 - <a href="https://forms.office.com/r/vL1TTmyCmk">SA Form</a>
 - <a href="https://ecloudvalley.my.salesforce.com">SalesForce</a>
-- <a href="cnn.com">SA Bot</a>
+- <a href="https://ecvcorp-my.sharepoint.com/:p:/r/personal/homer_alvero_ecloudvalley_com/_layouts/15/doc.aspx?sourcedoc=%7B5beb9a44-875c-4b07-a5a9-3b4cc829e9b6%7D&action=edit">SA Pipelinet</a>
 
 ### Sales Resources
 - <a href="https://ecvcorp-my.sharepoint.com/:x:/g/personal/mervin_delossantos_ecloudvalley_com/ESAO2ns2sZNNv5a0X5lKf5MB8Vw8A6EOiYqKPcnAdpV3pQ?wdOrigin=TEAMS-MAGLEV.p2p_ns.rwc&wdExp=TEAMS-TREATMENT&wdhostclicktime=1748250976732&web=1">Infra Projects Questionaire</a>
