@@ -13,8 +13,8 @@
 - <a href="https://ecvcorp-my.sharepoint.com/:x:/g/personal/john_batacan_ecloudvalley_com/EQ_6JqRql7tOvnHI7nVynL8BKDs7Ih4iCcpgqTmWjOLuKA?wdOrigin=TEAMS-MAGLEV.p2p_ns.rwc&wdExp=TEAMS-TREATMENT&wdhostclicktime=1748316507171&web=1">AI & AI Solutions Questionaire</a>
 
 ### Templates
-- <a href="cnn.com">Proposal</a>
-- <a href="cnn.com">SoW</a>
+- <a href="https://ecvcorp-my.sharepoint.com/:p:/r/personal/homer_alvero_ecloudvalley_com/Documents/100%20Customers/Templates/ECV%20Professional%20Services%20-%20Solution%20Proposal%20Template%20v2025-0203%20(2).pptx?d=wf7d588be5e85489c9fef3207c1f92915&csf=1&web=1&e=hOVa8X">Proposal</a>
+- <a href="https://ecvcorp-my.sharepoint.com/:w:/r/personal/homer_alvero_ecloudvalley_com/Documents/100%20Customers/Templates/ECV%20Professional%20Services%20SOW%20Template%20-%20v2025-0203.docx?d=w10d9088e65984b01a1169cc273a6c9ed&csf=1&web=1&e=QJzLaQ">SoW</a>
 - <a href="">AWS Calculator Template</a>
 
 
