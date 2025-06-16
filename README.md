@@ -26,4 +26,5 @@
 - <a href="/flywheel">Team Flywheel</a>
 
 ### Others
-- <a href="/certifications">Certifications</a>
+- <a href="/certifications">Team Certifications</a>
+- <a href="https://ecvcorp-my.sharepoint.com/:x:/r/personal/homer_alvero_ecloudvalley_com/_layouts/15/Doc.aspx?sourcedoc=%7B3BAE0F24-BAB9-4ABC-9816-11681E74A73D%7D&file=SA%20Certifications.xlsx&action=default&mobileredirect=true">Individual Certifications</a>
