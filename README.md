@@ -3,6 +3,7 @@
 
 ### Links
 - <a href="https://forms.office.com/r/vL1TTmyCmk">SA Form</a>
+- <a href="https://chatgpt.com/g/g-68537fe6dea88191bc0eb0e3e55601f1-ec2-pricing-gpt">EC2 Pricing Calculator</a>
 - <a href="https://ecloudvalley.my.salesforce.com">SalesForce</a>
 - <a href="https://ecvcorp-my.sharepoint.com/:p:/r/personal/homer_alvero_ecloudvalley_com/_layouts/15/doc.aspx?sourcedoc=%7B5beb9a44-875c-4b07-a5a9-3b4cc829e9b6%7D&action=edit">SA Pipeline</a>
 - <a href="https://calculator.aws/#/">AWS Calculator</a>
