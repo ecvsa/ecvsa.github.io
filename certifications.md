@@ -1,3 +1,1 @@
-# Team Certifications
-
-Test test
+![SA Team Certifications](/sa-team-certifications.jpg)
