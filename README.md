@@ -20,7 +20,7 @@
 
 
 ### Team
-- <a href="/2025goals">2025 Team Goals</a> 
+- <a href="/2025-goals">2025 Team Goals</a> 
 - <a href="/vision">Vision</a>
 - <a href="/mission">Mission</a>
 - <a href="/principles">Leadership Principles</a>
