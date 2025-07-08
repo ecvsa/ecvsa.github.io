@@ -2,27 +2,25 @@ import { defineConfig } from 'vitepress'
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
-  title: "Doc SA Portal",
-  description: "A VitePress Site",
+  title: "SA Portal",
+  description: "Your one-stop stop SA information",
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
     nav: [
       { text: 'Home', link: '/' },
-      { text: 'Examples', link: '/markdown-examples' }
+      { text: 'SA Form', link: 'https://forms.office.com/r/vL1TTmyCmk' }
     ],
 
     sidebar: [
       {
-        text: 'Examples',
+        text: 'Quick Links',
         items: [
-          { text: 'Markdown Examples', link: '/markdown-examples' },
-          { text: 'Runtime API Examples', link: '/api-examples' }
+          { text: 'Sales Resources', link: '/sales' },
+          { text: 'Templates', link: '/templates' },
+	  { text: 'Team', link: '/team' }
         ]
       }
-    ],
-
-    socialLinks: [
-      { icon: 'github', link: 'https://github.com/vuejs/vitepress' }
     ]
+
   }
 })
