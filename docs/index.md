@@ -5,7 +5,7 @@ layout: home
 hero:
   name: "SA Portal"
 ##  text: "A VitePress Site"
-  tagline: Your one-stop SA information
+  tagline: Your one-stop shop SA information
   actions:
     - theme: brand
       text: SA Form
