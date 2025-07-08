@@ -2,7 +2,7 @@
   <Layout>
     <template #nav-bar-content-before>
       <div class="nav-warning">
-        🚧 <span>Docs under construction</span>
+<!--        🚧 <span>Docs under construction</span> -->
       </div>
     </template>
   </Layout>
