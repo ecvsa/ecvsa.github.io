@@ -4,7 +4,7 @@ layout: home
 
 hero:
   name: "SA Portal"
-##  text: "A VitePress Site"
+##  text: "A VitePress Sitehell"
   tagline: Your one-stop shop SA site
   actions:
     - theme: brand
