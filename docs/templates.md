@@ -10,15 +10,14 @@
   </div>
 
   <div style="background: var(--vp-c-bg-soft); padding: 16px; border-radius: 8px; border: 1px solid var(--vp-c-divider);">
-    <h4 style="margin: 0 0 8px 0; color: var(--vp-c-brand);">🚀 <a href="">AWS Calculator Bulk Upload</a></h4>
+    <h4 style="margin: 0 0 8px 0; color: var(--vp-c-brand);">🚀 <a href="https://ecvcorp-my.sharepoint.com/:x:/r/personal/homer_alvero_ecloudvalley_com/_layouts/15/Doc.aspx?sourcedoc=%7B17F60F55-3417-4B87-A5B4-456BE9E41FCC%7D&file=Amazon_EC2_Instances_BulkUpload_Template_Commercial-4.xlsx&action=default&mobileredirect=true">AWS Calculator Bulk Upload</a></h4>
     <p style="margin: 0; font-size: 14px; line-height: 1.5;">Use this template to create an AWS calculator link for bulk upload.</p>
   </div>
-<!--  
   <div style="background: var(--vp-c-bg-soft); padding: 16px; border-radius: 8px; border: 1px solid var(--vp-c-divider);">
-    <h4 style="margin: 0 0 8px 0; color: var(--vp-c-brand);">🧠 Advanced Reasoning</h4>
-    <p style="margin: 0; font-size: 14px; line-height: 1.5;">Gain a different analytical perspective for sophisticated analysis of complex information.</p>
+    <h4 style="margin: 0 0 8px 0; color: var(--vp-c-brand);">🧠 <a href="https://ecvcorp-my.sharepoint.com/:x:/r/personal/homer_alvero_ecloudvalley_com/_layouts/15/Doc.aspx?sourcedoc=%7BA6609DC5-A6ED-4B98-97C3-6CEC5394C641%7D&file=EC2%20Simplified%20Inventory.xlsx&action=default&mobileredirect=true">Simplified EC2 Inventory Template</a></h4>
+    <p style="margin: 0; font-size: 14px; line-height: 1.5;">Use this template for using the AI EC2 Bulk Upload Generator</p>
   </div>
-  
+<!--  
   <div style="background: var(--vp-c-bg-soft); padding: 16px; border-radius: 8px; border: 1px solid var(--vp-c-divider);">
     <h4 style="margin: 0 0 8px 0; color: var(--vp-c-brand);">🔒 Privacy First</h4>
     <p style="margin: 0; font-size: 14px; line-height: 1.5;">Open-source and telemetry-free. Committed to transparency and responsible AI.</p>
