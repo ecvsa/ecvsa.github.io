@@ -1,6 +1,6 @@
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(250px, 1fr)); gap: 16px; margin: 24px 0;">
   <div style="background: var(--vp-c-bg-soft); padding: 16px; border-radius: 8px; border: 1px solid var(--vp-c-divider);">
-    <h4 style="margin: 0 0 8px 0; color: var(--vp-c-brand);">🧠 <a href="https://chatgpt.com/g/g-6882db0b5d088191a69d1236cb852905-ai-practitioner-reviewer">Infra Projects Questionaire</a></h4>
+    <h4 style="margin: 0 0 8px 0; color: var(--vp-c-brand);">🧠 <a href="https://chatgpt.com/g/g-6882db0b5d088191a69d1236cb852905-ai-practitioner-reviewer">AWS Certified AI Practitioner Exam Reviewer</a></h4>
     <p style="margin: 0; font-size: 14px; line-height: 1.5;">Custom GPT for passing the AWS Certified AI Practitioner Exam.</p>
   </div>
 
