@@ -1,0 +1,11 @@
+# VitePress build outputs
+docs/.vitepress/dist
+
+# VitePress cache
+docs/.vitepress/cache
+
+# node stuff
+node_modules
+
+*.DS_Store
+.DS_Store

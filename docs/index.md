@@ -33,5 +33,8 @@ features:
   - title: Team
     details: Here you can find information about the Solutions Architects team
     link: /team
+  - title: Learning Materials
+    details: Find SA-curated learning materials
+    link: /learning
 ---
 
