@@ -8,7 +8,7 @@ export default defineConfig({
     // https://vitepress.dev/reference/default-theme-config
     nav: [
       { text: 'Home', link: '/' },
-      { text: 'SA Form', link: 'https://forms.office.com/r/vL1TTmyCmk' }
+      { text: 'SA Form', link: 'https://p.ecvph.com' }
     ],
 
     sidebar: [
