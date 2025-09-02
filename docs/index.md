@@ -11,9 +11,6 @@ hero:
       text: SA Form
       link: https://p.ecvph.com
     - theme: alt
-      text: Pipeline
-      link: https://ecvcorp-my.sharepoint.com/:p:/r/personal/homer_alvero_ecloudvalley_com/_layouts/15/doc.aspx?sourcedoc=%7B5beb9a44-875c-4b07-a5a9-3b4cc829e9b6%7D&action=edit
-    - theme: alt
       text: AWS Calculator
       link: https://calculator.aws/#/
     - theme: alt
