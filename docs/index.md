@@ -28,7 +28,7 @@ features:
     details: Relevant SA templates
     link: /templates
   - title: Team
-    details: Here you can find information about the Solutions Architects team
+    details: Information about the Solutions Architects team
     link: /team
   - title: Learning Materials
     details: Find SA-curated learning materials
